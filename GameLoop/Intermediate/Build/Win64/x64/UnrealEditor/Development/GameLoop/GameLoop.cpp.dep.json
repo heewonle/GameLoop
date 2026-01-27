@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lhw45\\downloads\\unreal project\\gameloop\\gameloop\\gameloop\\source\\gameloop\\gameloop.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lhw45\\downloads\\unreal project\\gameloop\\gameloop\\gameloop\\intermediate\\build\\win64\\x64\\gameloopeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\lhw45\\downloads\\unreal project\\gameloop\\gameloop\\gameloop\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gameloop\\definitions.gameloop.h",
+            "c:\\users\\lhw45\\downloads\\unreal project\\gameloop\\gameloop\\gameloop\\source\\gameloop\\gameloop.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lhw45\\downloads\\unreal project\\gameloop\\gameloop\\gameloop\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gameloop\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lhw45\\downloads\\unreal project\\gameloop\\gameloop\\gameloop\\intermediate\\build\\win64\\x64\\gameloopeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\lhw45\\downloads\\unreal project\\gameloop\\gameloop\\gameloop\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gameloop\\definitions.gameloop.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
